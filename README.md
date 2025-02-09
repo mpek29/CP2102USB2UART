@@ -32,5 +32,5 @@ An open-source reverse-engineered version of the CJMCU CP2102 USB to UART TTL ad
 | DTR        | Data Terminal Ready |
 
 ## 📜 License
-This project is open-source under the MIT License. Feel free to use, modify, and contribute! 🚀
+This project is open-source. Feel free to use, modify, and contribute! 🚀
 
