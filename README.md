@@ -1,7 +1,7 @@
 # CP2102USB2UART
 
 ## 🚀 Overview
-An open-source reverse-engineered version of the CJMCU CP2102 USB to UART TTL adapter, based on the original component available [here](https://fr.aliexpress.com/item/1005005847955898.html). This project aims to provide insights into USB-to-serial communication and offer a customizable alternative for embedded system developers.
+An open-source reverse-engineered version of the CJMCU CP2102 USB to UART TTL adapter, based on the original component available [here](https://fr.aliexpress.com/item/1005006975725106.html). This project aims to provide insights into USB-to-serial communication and offer a customizable alternative for embedded system developers.
 
 ## 🎯 Purpose
 - 🔍 **Reverse engineering**: Understanding the design and functionality of the original adapter.
