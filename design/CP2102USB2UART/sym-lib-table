@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CP2102")(type "KiCad")(uri "C:/Users/Flori/Documents/Project/Tech/Electronics/CP2102USB2UART/design/lib/symbols/CP2102.kicad_sym")(options "")(descr ""))
+  (lib (name "UJ2-MIBH-G-SMT-TR")(type "KiCad")(uri "C:/Users/Flori/Documents/Project/Tech/Electronics/CP2102USB2UART/design/lib/symbols/UJ2-MIBH-G-SMT-TR.kicad_sym")(options "")(descr ""))
+)
