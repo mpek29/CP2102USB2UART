@@ -19,9 +19,9 @@ An open-source reverse-engineered version of the CJMCU CP2102 USB to UART TTL ad
 | 🏷️ Chipset           | CP2102          | CP2102 |
 | 📌 Pin Mapping       | 6-Pin UART TTL  | 6-Pin UART TTL |
 | ⚡ Supported Voltage | 3.3V / 5V       | 3.3V / 5V |
-| 👐 Mechanical Drawing  | <img src="assets/img/original_pcb.png" width="300" height="300"> | <img src="assets/img/reversed_pcb.png" width="300" height="300"> |
-| 📝 Reverse-Engineered Schematic | N/A | <img src="assets/img/reversed_sch.png" width="300" height="300"> |
-| 📷 Photo             | <img src="assets/img/original_3d.png" width="300" height="300"> | <img src="assets/img/reversed_3d.png" width="300" height="300"> |
+| 👐 Mechanical Drawing  | <img src="assets/img/original_pcb.png"> | <img src="assets/img/reversed_pcb.png"> |
+| 📝 Reverse-Engineered Schematic | N/A | <img src="assets/img/reversed_sch.png"> |
+| 📷 Photo             | <img src="assets/img/original_3d.png"> | <img src="assets/img/reversed_3d.png"> |
 
 ## 🛠️ How to Use
 ### 📌 Wiring Guide
