@@ -55,16 +55,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "Silicon Labs"
+			(property "Description" "USB to UART Bridge"
 				(at 0 0 0)
 				(effects
 					(font
@@ -74,7 +65,7 @@
 					(hide yes)
 				)
 			)
-			(property "DESCRIPTION" "USB to UART Bridge"
+			(property "MF" "Silicon Labs"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2217,6 +2208,16 @@
 	)
 	(wire
 		(pts
+			(xy 229.87 109.22) (xy 229.87 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca3e3a8d-3527-49b5-b0cb-d6cf55fd30db")
+	)
+	(wire
+		(pts
 			(xy 181.61 73.66) (xy 181.61 72.39)
 		)
 		(stroke
@@ -2278,7 +2279,7 @@
 		(uuid 1c161ad1-feae-4b79-9725-0e246b4acd08)
 	)
 	(rectangle
-		(start 224.536 109.982)
+		(start 224.536 100.838)
 		(end 237.236 128.27)
 		(stroke
 			(width 0)
@@ -3057,6 +3058,72 @@
 			(project "CP2102USB2UART"
 				(path "/4c3b105e-46d9-4f53-a989-3f2215a086af"
 					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 229.87 109.22 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "53386ffa-c6e0-4617-aa42-5e665434c1fb")
+		(property "Reference" "#PWR014"
+			(at 229.87 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 229.87 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 229.87 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 229.87 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 229.87 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "78283d7e-01f2-4b32-ae66-a59d212863d6")
+		)
+		(instances
+			(project "CP2102USB2UART"
+				(path "/4c3b105e-46d9-4f53-a989-3f2215a086af"
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
